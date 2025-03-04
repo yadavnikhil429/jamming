@@ -16,6 +16,7 @@ const Tracklist = (props) => {
        
         ar={props.isRemoval}
         onAdd={props.onAdd}
+        onRemove={props.onRemove}
     />
     );
        })}
