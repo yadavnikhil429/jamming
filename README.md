@@ -1,5 +1,7 @@
 # Jamming
+an off platform codecademy project using react app.
 
+ ## discription
 Jamming is a music search and playlist creation web app that allows users to search for tracks, create custom playlists, and save them using the Spotify API.
 
 ## Features
