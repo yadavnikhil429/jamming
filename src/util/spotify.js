@@ -1,7 +1,7 @@
 
 
 const clientId = '7d79446e8b4344709d4e2e5b135a9da5';
-const redirectUri = 'https://yadavnikhil429.github.io/jamming/';
+const redirectUri = 'https://spectacular-pie-8b37dc.netlify.app/';
 let accessToken;
 
 const spotify = {
